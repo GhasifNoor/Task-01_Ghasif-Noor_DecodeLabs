@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website built with pure **HTML5, CSS3, and JavaScript** — no frameworks, no libraries. Developed as **Project 1** of the DecodeLabs Full Stack Developer Internship, Batch 2026.
 
- **Live Site:** [ghasifnoor.github.io/Portfolio_DecodeLabs_Project-1](https://ghasifnoor.github.io/Portfolio_DecodeLabs_Project-1/)
+ **Live Site:** [ghasifnoor.github.io/Portfolio_DecodeLabs_Project-1](https://ghasifnoor.github.io/Task-01_Ghasif-Noor_DecodeLabs/)
 
 ---
 
@@ -81,7 +81,7 @@ project1/
 ##  How to Run
 
 ### View Live
-Open in any browser: [https://ghasifnoor.github.io/Portfolio_DecodeLabs_Project-1](https://ghasifnoor.github.io/Portfolio_DecodeLabs_Project-1/)
+Open in any browser: [https://ghasifnoor.github.io/Portfolio_DecodeLabs_Project-1](https://ghasifnoor.github.io/Task-01_Ghasif-Noor_DecodeLabs/)
 
 ### Run Locally
 ```bash
