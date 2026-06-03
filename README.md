@@ -6,7 +6,7 @@ A responsive personal portfolio website built with pure **HTML5, CSS3, and JavaS
 
 ---
 
-##  Table of Contents
+##  Table of Contents:
 
 - [About the Project](#about-the-project)
 - [Features](#features)
